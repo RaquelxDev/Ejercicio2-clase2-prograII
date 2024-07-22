@@ -16,7 +16,7 @@ public class Main {
         ejercicio2.AreaTriangulo();
         //PKG GRUPO 3
         ejercicio3.PrismaRectangular();
-        ejercicio3.PrismaRectangular();
+        ejercicio3.AreaParalelogramo();
         ejercicio3.VolumenCilindro();
 
         System.out.print("Hello and welcome!");
